@@ -40,7 +40,7 @@ interface DailyTasksProps {
 }
 
 const SERVER_CONFIG = {
-  baseUrl: 'https://ads-ixjc.onrender.com',
+  baseUrl: 'https://quickearn25-bot-server.onrender.com',
   endpoints: {
     telegram: '/api/telegram/check-membership',
     connect: '/api/frontend/connect',
